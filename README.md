@@ -1,4 +1,4 @@
-# Smart-Mirror🤖
+# Smart-Mirror 📱
 Description:
 This project implements a futuristic Smart Mirror using Raspberry Pi, AI-based facial recognition, and IoT connectivity.  
 The mirror acts as both a regular reflective surface and an interactive display for weather 🌦️, news 📰, time 🕰️, and calendar updates.  
